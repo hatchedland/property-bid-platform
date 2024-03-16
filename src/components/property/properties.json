@@ -1,0 +1,137 @@
+[
+  {
+    "propertyID": "2812egbd3b2",
+    "status": "Ongoing",
+    "propertyType": "Residential",
+    "city": "Mumbai",
+    "ownershipType": "Free Hold",
+    "reservePrice": "11k",
+    "auctionStarted": "13/03/24, 12:00 P.M.",
+    "auctionClosed": "19/03/24, 11:00 A.M.",
+    "summary": "PLOT OF 2000 SQ FT WITH TWO STORIED RCC G1 RCC RESIDENTIAL BUILDING",
+    "titleDeedType": "REGISTERED SALE DEED",
+    "possessionStatus": "SARFAESI PHYSICAL",
+    "emdAmount": 86500,
+    "emdLastDate": "NA",
+    "sealedBidLastDate": "NA",
+    "sealedBidExtendedDate": "NA",
+    "address": "123 Main St, New York, NY",
+    "borrowerName": "John Doe",
+    "ownerName": "John Doe",
+    "authorisedOfficer": {
+      "name": "Amitabh Pathak",
+      "contactNumber": "9167979906"
+    },
+    "bankDetails": {
+      "name": "Bank of Baroda"
+    }
+  },
+  {
+    "propertyID": "12345abcde",
+    "status": "Upcoming",
+    "propertyType": "Commercial",
+    "city": "Pune",
+    "ownershipType": "Lease Hold",
+    "reservePrice": "15k",
+    "auctionStarted": "20/03/24, 10:00 A.M.",
+    "auctionClosed": "25/03/24, 12:00 P.M.",
+    "summary": "Commercial property with office space",
+    "titleDeedType": "LEASE DEED",
+    "possessionStatus": "Vacant",
+    "emdAmount": 10000,
+    "emdLastDate": "18/03/24",
+    "sealedBidLastDate": "NA",
+    "sealedBidExtendedDate": "NA",
+    "address": "456 Broadway, Los Angeles, CA",
+    "borrowerName": "Jane Smith",
+    "ownerName": "Jane Smith",
+    "authorisedOfficer": {
+      "name": "Michael Johnson",
+      "contactNumber": "9876543210"
+    },
+    "bankDetails": {
+      "name": "State Bank of India"
+    }
+  },
+  {
+    "propertyID": "98765qwerty",
+    "status": "Closed",
+    "propertyType": "Land",
+    "city": "Bangalore",
+    "ownershipType": "Free Hold",
+    "reservePrice": "20k",
+    "auctionStarted": "10/03/24, 9:00 A.M.",
+    "auctionClosed": "15/03/24, 5:00 P.M.",
+    "summary": "Vacant land suitable for development",
+    "titleDeedType": "REGISTERED SALE DEED",
+    "possessionStatus": "Vacant",
+    "emdAmount": 15000,
+    "emdLastDate": "08/03/24",
+    "sealedBidLastDate": "NA",
+    "sealedBidExtendedDate": "NA",
+    "address": "789 Oak St, Chicago, IL",
+    "borrowerName": "David Johnson",
+    "ownerName": "David Johnson",
+    "authorisedOfficer": {
+      "name": "Sarah Williams",
+      "contactNumber": "1234567890"
+    },
+    "bankDetails": {
+      "name": "ICICI Bank"
+    }
+  },
+  {
+    "propertyID": "54321xyz",
+    "status": "Ongoing",
+    "propertyType": "Residential",
+    "city": "Delhi",
+    "ownershipType": "Free Hold",
+    "reservePrice": "25k",
+    "auctionStarted": "05/03/24, 11:00 A.M.",
+    "auctionClosed": "10/03/24, 2:00 P.M.",
+    "summary": "Single-family home with backyard",
+    "titleDeedType": "REGISTERED SALE DEED",
+    "possessionStatus": "Occupied",
+    "emdAmount": 20000,
+    "emdLastDate": "03/03/24",
+    "sealedBidLastDate": "NA",
+    "sealedBidExtendedDate": "NA",
+    "address": "101 Pine St, Houston, TX",
+    "borrowerName": "Mary Brown",
+    "ownerName": "Mary Brown",
+    "authorisedOfficer": {
+      "name": "Robert Miller",
+      "contactNumber": "9876543210"
+    },
+    "bankDetails": {
+      "name": "HDFC Bank"
+    }
+  },
+  {
+    "propertyID": "qwerty12345",
+    "status": "Upcoming",
+    "propertyType": "Industrial",
+    "city": "Mumbai",
+    "ownershipType": "Free Hold",
+    "reservePrice": "30k",
+    "auctionStarted": "22/03/24, 1:00 P.M.",
+    "auctionClosed": "27/03/24, 4:00 P.M.",
+    "summary": "Industrial property with warehouse",
+    "titleDeedType": "REGISTERED SALE DEED",
+    "possessionStatus": "Vacant",
+    "emdAmount": 25000,
+    "emdLastDate": "20/03/24",
+    "sealedBidLastDate": "NA",
+    "sealedBidExtendedDate": "NA",
+    "address": "202 Oak Ave, Dallas, TX",
+    "borrowerName": "Mark Johnson",
+    "ownerName": "Mark Johnson",
+    "authorisedOfficer": {
+      "name": "Emily Wilson",
+      "contactNumber": "1234567890"
+    },
+    "bankDetails": {
+      "name": "Axis Bank"
+    }
+  }
+]
