@@ -77,7 +77,7 @@ export const PropertyDetailed = () => {
                     </div>
                 </div>
                 <div className='max-w-xl text-2xl py-12'>
-                    <span>{propertyData.propertySubType}</span> in <span>{propertyData.city}</span>
+                    <span>{propertyData.propertySubType}</span> in <span className='capitalize'>{propertyData.city}</span>
                 </div>
                 <div className="flex gap-6">
                     <div className='flex items-center gap-6 bg-gray-50 p-6'>
@@ -98,7 +98,7 @@ export const PropertyDetailed = () => {
                         <div><Clock /></div>
                         <div className='flex flex-col'>
                             <label htmlFor='Auction date' className=' opacity-75 text-sm'>Auction Started</label>
-                            <span typeof='Auction date' className='text-xl'>{propertyData.auctionOpenDate}</span>
+                            <span typeof='Auction date' className='text-xl '>{propertyData.auctionOpenDate}</span>
                         </div>
                     </div>
                     <div className='flex items-center gap-6 bg-gray-50 p-6'>
