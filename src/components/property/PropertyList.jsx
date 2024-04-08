@@ -48,7 +48,7 @@ export const PropertyList = () => {
   }
 
   return (
-    <div className='w-full mx-auto'>
+    <div className='w-full mx-auto '>
       <div className='mx-auto w-full border my-12'>
         <div className='flex max-w-4xl mx-auto justify-center'>
           {cities.map((city) => (
