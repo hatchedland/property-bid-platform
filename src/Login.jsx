@@ -24,7 +24,7 @@ export const Login = () => {
 
 
   return (
-    <div className="max-w-sm mx-auto">
+    <div className="max-w-sm mx-auto flex items-center justify-center min-h-screen">
       <form className="bg-white shadow-md rounded p-8">
         <div className="mb-4">
           <label
